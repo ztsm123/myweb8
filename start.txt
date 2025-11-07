@@ -1,0 +1,17 @@
+intro:螨虫|螨虫~|该醒了 -fontSize=large -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:bg.webp -next;
+changeFigure:stand.webp -left -next;
+setAnimation:blur -next -target=fig-left;
+神秘声音:再不醒就错过上学时间了 -v1.wav;
+我:怎么这么大声 -v1.wav -fontSize=large;
+:我揉了揉惺忪的睡眼，不满的说道;
+miniAvatar:miniavatar.webp;
+刘二:好啦好啦，不要闹啦;
+miniAvatar:none;
+刘二:走吧，去开学典礼;
+changeFigure:none -left;
+changeFigure:stand.webp;
+我:行，走吧;
+刘二:话说怎么走呢;
+:旋即他便打开了家门，屋外的樱花纷飞;
+choose:骑电动车吧:1.txt|走路:2.txt;

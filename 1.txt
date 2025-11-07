@@ -1,0 +1,15 @@
+changeBg: 选择背景图片;
+刘二:电动车~！电动车;
+changeFigure:none;
+pixiPerform:cherryBlossoms;
+changeFigure:miniavatar.webp -left;
+:刘二就和发了疯一样的抽泣~~？|不，更确切的来说是暴怒;
+pixiInit;
+:他疯狂的向你冲来，顺手拿起了桌上的菜刀;
+我:你要干什么！？;
+:我如此惶恐;
+我:往日种种，你当真不记得了？;
+刘二:你说的，可是往日？;
+:我来不及反驳，下一秒，便没了意识;
+intro:你死了 -hold -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(161, 63, 63, 1) -animation=fadeIn -delayTime=1500;
+end;

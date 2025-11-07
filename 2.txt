@@ -1,0 +1,4 @@
+changeBg:选择背景图片 -transform={"colorRed":23,"colorGreen":21,"colorBlue":21};
+changeFigure:none;
+changeFigure:stand.webp -left;
+intro:未完待续 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(168, 35, 35, 1) -animation=fadeIn -delayTime=1500;
