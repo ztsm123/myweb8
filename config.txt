@@ -1,0 +1,6 @@
+Game_name:螨虫养成日记;
+Game_key:40f9db6c24b29e;
+Title_img:WebGAL_New_Enter_Image.webp;
+Title_bgm:s_Title.mp3;
+Textbox_theme:imss;
+Package_name:com.919191;
